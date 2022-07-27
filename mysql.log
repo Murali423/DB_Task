@@ -1,0 +1,302 @@
+[2022-07-28 00:11:27,270]:DEBUG:connection to mysql db has started
+[2022-07-28 00:11:27,415]:INFO:Connection to mysql db is successful
+[2022-07-28 00:11:27,415]:DEBUG:creating the datframe pandas from sql
+[2022-07-28 00:11:27,805]:INFO:attribute dataframe created successfully
+[2022-07-28 00:11:27,805]:DEBUG:creating the datframe pandas from sql
+[2022-07-28 00:11:27,821]:INFO:dress_df dataframe created successfully
+[2022-07-28 00:12:50,140]:DEBUG:diff parser start
+[2022-07-28 00:12:50,156]:DEBUG:line_lengths old: 16; new: 2
+[2022-07-28 00:12:50,156]:DEBUG:-> code[delete] old[1:1] new[1:0]
+[2022-07-28 00:12:50,156]:DEBUG:-> code[equal] old[2:2] new[1:1]
+[2022-07-28 00:12:50,156]:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+[2022-07-28 00:12:50,156]:DEBUG:-> code[replace] old[3:16] new[2:2]
+[2022-07-28 00:12:50,156]:DEBUG:diff parser end
+[2022-07-28 00:13:36,482]:DEBUG:diff parser start
+[2022-07-28 00:13:36,482]:DEBUG:line_lengths old: 2; new: 3
+[2022-07-28 00:13:36,482]:DEBUG:-> code[equal] old[1:1] new[1:1]
+[2022-07-28 00:13:36,482]:DEBUG:parse_part from 1 to 3 (to 2 in part parser)
+[2022-07-28 00:13:36,482]:DEBUG:-> code[replace] old[2:2] new[2:3]
+[2022-07-28 00:13:36,482]:DEBUG:diff parser end
+[2022-07-28 00:13:36,518]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\mysql\connector\__init__.py
+[2022-07-28 00:13:39,271]:DEBUG:diff parser start
+[2022-07-28 00:13:39,271]:DEBUG:line_lengths old: 3; new: 3
+[2022-07-28 00:13:39,271]:DEBUG:-> code[equal] old[1:2] new[1:2]
+[2022-07-28 00:13:39,271]:DEBUG:parse_part from 1 to 3 (to 2 in part parser)
+[2022-07-28 00:13:39,271]:DEBUG:-> code[replace] old[3:3] new[3:3]
+[2022-07-28 00:13:39,271]:DEBUG:diff parser end
+[2022-07-28 00:13:43,629]:DEBUG:diff parser start
+[2022-07-28 00:13:43,629]:DEBUG:line_lengths old: 3; new: 3
+[2022-07-28 00:13:43,629]:DEBUG:-> code[equal] old[1:2] new[1:2]
+[2022-07-28 00:13:43,629]:DEBUG:parse_part from 1 to 3 (to 2 in part parser)
+[2022-07-28 00:13:43,629]:DEBUG:-> code[replace] old[3:3] new[3:3]
+[2022-07-28 00:13:43,629]:DEBUG:diff parser end
+[2022-07-28 00:16:03,833]:DEBUG:diff parser start
+[2022-07-28 00:16:03,833]:DEBUG:line_lengths old: 3; new: 7
+[2022-07-28 00:16:03,833]:DEBUG:-> code[equal] old[1:2] new[1:2]
+[2022-07-28 00:16:03,833]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:16:03,833]:DEBUG:-> code[replace] old[3:3] new[3:7]
+[2022-07-28 00:16:03,833]:DEBUG:diff parser end
+[2022-07-28 00:16:03,849]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\__init__.py
+[2022-07-28 00:16:06,924]:DEBUG:diff parser start
+[2022-07-28 00:16:06,924]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:16:06,924]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:16:06,934]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:16:06,934]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:16:06,934]:DEBUG:diff parser end
+[2022-07-28 00:16:07,297]:DEBUG:diff parser start
+[2022-07-28 00:16:07,297]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:16:07,297]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:16:07,301]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:16:07,301]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:16:07,302]:DEBUG:diff parser end
+[2022-07-28 00:16:07,540]:DEBUG:diff parser start
+[2022-07-28 00:16:07,540]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:16:07,540]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:16:07,540]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:16:07,540]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:16:07,540]:DEBUG:diff parser end
+[2022-07-28 00:16:08,623]:DEBUG:diff parser start
+[2022-07-28 00:16:08,623]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:16:08,623]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:16:08,623]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:16:08,639]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:16:08,639]:DEBUG:diff parser end
+[2022-07-28 00:16:09,219]:DEBUG:diff parser start
+[2022-07-28 00:16:09,219]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:16:09,220]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:16:09,227]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:16:09,228]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:16:09,228]:DEBUG:diff parser end
+[2022-07-28 00:16:09,656]:DEBUG:diff parser start
+[2022-07-28 00:16:09,657]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:16:09,657]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:16:09,659]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:16:09,659]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:16:09,659]:DEBUG:diff parser end
+[2022-07-28 00:16:15,416]:DEBUG:diff parser start
+[2022-07-28 00:16:15,416]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:16:15,416]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:16:15,422]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:16:15,422]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:16:15,422]:DEBUG:diff parser end
+[2022-07-28 00:16:59,164]:DEBUG:diff parser start
+[2022-07-28 00:16:59,164]:DEBUG:line_lengths old: 7; new: 8
+[2022-07-28 00:16:59,164]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:16:59,164]:DEBUG:parse_part from 1 to 8 (to 7 in part parser)
+[2022-07-28 00:16:59,164]:DEBUG:-> code[replace] old[7:7] new[7:8]
+[2022-07-28 00:16:59,164]:DEBUG:diff parser end
+[2022-07-28 00:17:22,966]:DEBUG:diff parser start
+[2022-07-28 00:17:22,966]:DEBUG:line_lengths old: 8; new: 9
+[2022-07-28 00:17:22,966]:DEBUG:-> code[equal] old[1:7] new[1:7]
+[2022-07-28 00:17:22,978]:DEBUG:parse_part from 1 to 9 (to 8 in part parser)
+[2022-07-28 00:17:22,978]:DEBUG:-> code[replace] old[8:8] new[8:9]
+[2022-07-28 00:17:22,979]:DEBUG:diff parser end
+[2022-07-28 00:17:25,146]:DEBUG:diff parser start
+[2022-07-28 00:17:25,146]:DEBUG:line_lengths old: 9; new: 9
+[2022-07-28 00:17:25,146]:DEBUG:-> code[equal] old[1:8] new[1:8]
+[2022-07-28 00:17:25,146]:DEBUG:parse_part from 1 to 9 (to 8 in part parser)
+[2022-07-28 00:17:25,146]:DEBUG:-> code[replace] old[9:9] new[9:9]
+[2022-07-28 00:17:25,155]:DEBUG:diff parser end
+[2022-07-28 00:17:26,629]:DEBUG:diff parser start
+[2022-07-28 00:17:26,629]:DEBUG:line_lengths old: 9; new: 9
+[2022-07-28 00:17:26,629]:DEBUG:-> code[equal] old[1:8] new[1:8]
+[2022-07-28 00:17:26,629]:DEBUG:parse_part from 1 to 9 (to 8 in part parser)
+[2022-07-28 00:17:26,629]:DEBUG:-> code[replace] old[9:9] new[9:9]
+[2022-07-28 00:17:26,629]:DEBUG:diff parser end
+[2022-07-28 00:18:03,390]:DEBUG:diff parser start
+[2022-07-28 00:18:03,390]:DEBUG:line_lengths old: 9; new: 10
+[2022-07-28 00:18:03,390]:DEBUG:-> code[equal] old[1:8] new[1:8]
+[2022-07-28 00:18:03,390]:DEBUG:parse_part from 1 to 10 (to 9 in part parser)
+[2022-07-28 00:18:03,390]:DEBUG:-> code[replace] old[9:9] new[9:10]
+[2022-07-28 00:18:03,390]:DEBUG:diff parser end
+[2022-07-28 00:18:06,242]:DEBUG:diff parser start
+[2022-07-28 00:18:06,242]:DEBUG:line_lengths old: 10; new: 10
+[2022-07-28 00:18:06,242]:DEBUG:-> code[equal] old[1:9] new[1:9]
+[2022-07-28 00:18:06,262]:DEBUG:parse_part from 1 to 10 (to 9 in part parser)
+[2022-07-28 00:18:06,262]:DEBUG:-> code[replace] old[10:10] new[10:10]
+[2022-07-28 00:18:06,262]:DEBUG:diff parser end
+[2022-07-28 00:18:15,748]:DEBUG:diff parser start
+[2022-07-28 00:18:15,748]:DEBUG:line_lengths old: 10; new: 11
+[2022-07-28 00:18:15,748]:DEBUG:-> code[equal] old[1:9] new[1:9]
+[2022-07-28 00:18:15,771]:DEBUG:parse_part from 1 to 11 (to 10 in part parser)
+[2022-07-28 00:18:15,771]:DEBUG:-> code[replace] old[10:10] new[10:11]
+[2022-07-28 00:18:15,771]:DEBUG:diff parser end
+[2022-07-28 00:18:17,354]:DEBUG:diff parser start
+[2022-07-28 00:18:17,354]:DEBUG:line_lengths old: 11; new: 11
+[2022-07-28 00:18:17,355]:DEBUG:-> code[equal] old[1:10] new[1:10]
+[2022-07-28 00:18:17,355]:DEBUG:parse_part from 1 to 11 (to 10 in part parser)
+[2022-07-28 00:18:17,355]:DEBUG:-> code[replace] old[11:11] new[11:11]
+[2022-07-28 00:18:17,355]:DEBUG:diff parser end
+[2022-07-28 00:18:17,572]:DEBUG:diff parser start
+[2022-07-28 00:18:17,572]:DEBUG:line_lengths old: 11; new: 11
+[2022-07-28 00:18:17,572]:DEBUG:-> code[equal] old[1:10] new[1:10]
+[2022-07-28 00:18:17,585]:DEBUG:parse_part from 1 to 11 (to 10 in part parser)
+[2022-07-28 00:18:17,585]:DEBUG:-> code[replace] old[11:11] new[11:11]
+[2022-07-28 00:18:17,585]:DEBUG:diff parser end
+[2022-07-28 00:18:20,471]:DEBUG:diff parser start
+[2022-07-28 00:18:20,471]:DEBUG:line_lengths old: 11; new: 11
+[2022-07-28 00:18:20,471]:DEBUG:-> code[equal] old[1:10] new[1:10]
+[2022-07-28 00:18:20,471]:DEBUG:parse_part from 1 to 11 (to 10 in part parser)
+[2022-07-28 00:18:20,471]:DEBUG:-> code[replace] old[11:11] new[11:11]
+[2022-07-28 00:18:20,471]:DEBUG:diff parser end
+[2022-07-28 00:18:24,709]:DEBUG:diff parser start
+[2022-07-28 00:18:24,709]:DEBUG:line_lengths old: 11; new: 12
+[2022-07-28 00:18:24,709]:DEBUG:-> code[equal] old[1:10] new[1:10]
+[2022-07-28 00:18:24,723]:DEBUG:parse_part from 1 to 12 (to 11 in part parser)
+[2022-07-28 00:18:24,723]:DEBUG:-> code[replace] old[11:11] new[11:12]
+[2022-07-28 00:18:24,723]:DEBUG:diff parser end
+[2022-07-28 00:18:27,944]:DEBUG:diff parser start
+[2022-07-28 00:18:27,944]:DEBUG:line_lengths old: 12; new: 12
+[2022-07-28 00:18:27,944]:DEBUG:-> code[equal] old[1:11] new[1:11]
+[2022-07-28 00:18:27,961]:DEBUG:parse_part from 1 to 12 (to 11 in part parser)
+[2022-07-28 00:18:27,961]:DEBUG:-> code[replace] old[12:12] new[12:12]
+[2022-07-28 00:18:27,961]:DEBUG:diff parser end
+[2022-07-28 00:18:37,379]:DEBUG:creating connection with database
+[2022-07-28 00:18:37,409]:INFO:Connection to mysql db is successful
+[2022-07-28 00:18:37,409]:DEBUG:creating the datframe pandas from sql
+[2022-07-28 00:18:37,480]:INFO:Left join dataframe created successfully
+[2022-07-28 00:21:39,033]:DEBUG:creating connection with database
+[2022-07-28 00:21:39,052]:INFO:Connection to mysql db is successful
+[2022-07-28 00:21:39,052]:DEBUG:creating the datframe pandas from sql
+[2022-07-28 00:22:30,045]:DEBUG:diff parser start
+[2022-07-28 00:22:30,045]:DEBUG:line_lengths old: 12; new: 7
+[2022-07-28 00:22:30,045]:DEBUG:-> code[equal] old[1:5] new[1:5]
+[2022-07-28 00:22:30,055]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:22:30,055]:DEBUG:-> code[replace] old[6:12] new[6:7]
+[2022-07-28 00:22:30,055]:DEBUG:diff parser end
+[2022-07-28 00:22:30,132]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\mysql\__init__.py
+[2022-07-28 00:22:31,099]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\abc.py
+[2022-07-28 00:22:31,113]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\abc.pyi
+[2022-07-28 00:22:31,692]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\mysql\connector\abstracts.py
+[2022-07-28 00:22:31,724]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\mysql\connector\utils.py
+[2022-07-28 00:22:33,041]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\types.py
+[2022-07-28 00:22:33,056]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\types.pyi
+[2022-07-28 00:22:36,399]:DEBUG:diff parser start
+[2022-07-28 00:22:36,399]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:22:36,399]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:22:36,399]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:22:36,399]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:22:36,399]:DEBUG:diff parser end
+[2022-07-28 00:22:42,399]:DEBUG:diff parser start
+[2022-07-28 00:22:42,399]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:22:42,399]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:22:42,402]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:22:42,403]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:22:42,403]:DEBUG:diff parser end
+[2022-07-28 00:23:30,133]:DEBUG:diff parser start
+[2022-07-28 00:23:30,133]:DEBUG:line_lengths old: 7; new: 7
+[2022-07-28 00:23:30,133]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:23:30,133]:DEBUG:parse_part from 1 to 7 (to 6 in part parser)
+[2022-07-28 00:23:30,133]:DEBUG:-> code[replace] old[7:7] new[7:7]
+[2022-07-28 00:23:30,133]:DEBUG:diff parser end
+[2022-07-28 00:23:43,384]:DEBUG:diff parser start
+[2022-07-28 00:23:43,384]:DEBUG:line_lengths old: 7; new: 8
+[2022-07-28 00:23:43,384]:DEBUG:-> code[equal] old[1:6] new[1:6]
+[2022-07-28 00:23:43,384]:DEBUG:parse_part from 1 to 8 (to 7 in part parser)
+[2022-07-28 00:23:43,384]:DEBUG:-> code[replace] old[7:7] new[7:8]
+[2022-07-28 00:23:43,384]:DEBUG:diff parser end
+[2022-07-28 00:23:47,794]:DEBUG:diff parser start
+[2022-07-28 00:23:47,794]:DEBUG:line_lengths old: 8; new: 8
+[2022-07-28 00:23:47,794]:DEBUG:-> code[equal] old[1:7] new[1:7]
+[2022-07-28 00:23:47,794]:DEBUG:parse_part from 1 to 8 (to 7 in part parser)
+[2022-07-28 00:23:47,794]:DEBUG:-> code[replace] old[8:8] new[8:8]
+[2022-07-28 00:23:47,794]:DEBUG:diff parser end
+[2022-07-28 00:23:49,745]:DEBUG:diff parser start
+[2022-07-28 00:23:49,745]:DEBUG:line_lengths old: 8; new: 8
+[2022-07-28 00:23:49,745]:DEBUG:-> code[equal] old[1:7] new[1:7]
+[2022-07-28 00:23:49,755]:DEBUG:parse_part from 1 to 8 (to 7 in part parser)
+[2022-07-28 00:23:49,756]:DEBUG:-> code[replace] old[8:8] new[8:8]
+[2022-07-28 00:23:49,756]:DEBUG:diff parser end
+[2022-07-28 00:23:50,671]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py
+[2022-07-28 00:23:58,121]:DEBUG:diff parser start
+[2022-07-28 00:23:58,121]:DEBUG:line_lengths old: 8; new: 8
+[2022-07-28 00:23:58,121]:DEBUG:-> code[equal] old[1:7] new[1:7]
+[2022-07-28 00:23:58,136]:DEBUG:parse_part from 1 to 8 (to 7 in part parser)
+[2022-07-28 00:23:58,137]:DEBUG:-> code[replace] old[8:8] new[8:8]
+[2022-07-28 00:23:58,137]:DEBUG:diff parser end
+[2022-07-28 00:24:02,237]:DEBUG:creating connection with database
+[2022-07-28 00:24:02,261]:INFO:Connection to mysql db is successful
+[2022-07-28 00:24:02,261]:DEBUG:creating the datframe pandas from sql
+[2022-07-28 00:25:17,304]:DEBUG:diff parser start
+[2022-07-28 00:25:17,304]:DEBUG:line_lengths old: 8; new: 9
+[2022-07-28 00:25:17,304]:DEBUG:-> code[equal] old[1:7] new[1:7]
+[2022-07-28 00:25:17,308]:DEBUG:parse_part from 1 to 9 (to 8 in part parser)
+[2022-07-28 00:25:17,308]:DEBUG:-> code[replace] old[8:8] new[8:9]
+[2022-07-28 00:25:17,309]:DEBUG:diff parser end
+[2022-07-28 00:25:18,807]:DEBUG:diff parser start
+[2022-07-28 00:25:18,807]:DEBUG:line_lengths old: 9; new: 9
+[2022-07-28 00:25:18,807]:DEBUG:-> code[equal] old[1:8] new[1:8]
+[2022-07-28 00:25:18,820]:DEBUG:parse_part from 1 to 9 (to 8 in part parser)
+[2022-07-28 00:25:18,820]:DEBUG:-> code[replace] old[9:9] new[9:9]
+[2022-07-28 00:25:18,820]:DEBUG:diff parser end
+[2022-07-28 00:25:20,142]:DEBUG:diff parser start
+[2022-07-28 00:25:20,142]:DEBUG:line_lengths old: 9; new: 9
+[2022-07-28 00:25:20,142]:DEBUG:-> code[equal] old[1:8] new[1:8]
+[2022-07-28 00:25:20,158]:DEBUG:parse_part from 1 to 9 (to 8 in part parser)
+[2022-07-28 00:25:20,161]:DEBUG:-> code[replace] old[9:9] new[9:9]
+[2022-07-28 00:25:20,162]:DEBUG:diff parser end
+[2022-07-28 00:25:21,847]:DEBUG:diff parser start
+[2022-07-28 00:25:21,847]:DEBUG:line_lengths old: 9; new: 9
+[2022-07-28 00:25:21,847]:DEBUG:-> code[equal] old[1:8] new[1:8]
+[2022-07-28 00:25:21,860]:DEBUG:parse_part from 1 to 9 (to 8 in part parser)
+[2022-07-28 00:25:21,860]:DEBUG:-> code[replace] old[9:9] new[9:9]
+[2022-07-28 00:25:21,860]:DEBUG:diff parser end
+[2022-07-28 00:25:24,867]:DEBUG:diff parser start
+[2022-07-28 00:25:24,867]:DEBUG:line_lengths old: 9; new: 9
+[2022-07-28 00:25:24,867]:DEBUG:-> code[equal] old[1:8] new[1:8]
+[2022-07-28 00:25:24,882]:DEBUG:parse_part from 1 to 9 (to 8 in part parser)
+[2022-07-28 00:25:24,883]:DEBUG:-> code[replace] old[9:9] new[9:9]
+[2022-07-28 00:25:24,883]:DEBUG:diff parser end
+[2022-07-28 00:25:54,605]:DEBUG:creating connection with database
+[2022-07-28 00:25:54,619]:INFO:Connection to mysql db is successful
+[2022-07-28 00:25:54,619]:DEBUG:creating the datframe pandas from sql
+[2022-07-28 00:27:31,122]:DEBUG:creating connection with database
+[2022-07-28 00:27:31,155]:INFO:Connection to mysql db is successful
+[2022-07-28 00:27:31,155]:DEBUG:creating the datframe pandas from sql
+[2022-07-28 00:38:06,668]:DEBUG:diff parser start
+[2022-07-28 00:38:06,678]:DEBUG:line_lengths old: 9; new: 1
+[2022-07-28 00:38:06,678]:DEBUG:-> code[replace] old[1:9] new[1:1]
+[2022-07-28 00:38:06,689]:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+[2022-07-28 00:38:06,689]:DEBUG:diff parser end
+[2022-07-28 00:38:07,029]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\frame.py
+[2022-07-28 00:38:07,198]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\__init__.py
+[2022-07-28 00:38:07,495]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\generic.py
+[2022-07-28 00:38:08,341]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\base.py
+[2022-07-28 00:38:08,498]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\accessor.py
+[2022-07-28 00:38:08,600]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\indexing.py
+[2022-07-28 00:38:08,828]:DEBUG:pickle loaded: C:\Users\HP\anaconda3\lib\site-packages\pandas\core\arraylike.py
+[2022-07-28 00:38:10,069]:DEBUG:diff parser start
+[2022-07-28 00:38:10,069]:DEBUG:line_lengths old: 1; new: 1
+[2022-07-28 00:38:10,069]:DEBUG:-> code[replace] old[1:1] new[1:1]
+[2022-07-28 00:38:10,070]:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+[2022-07-28 00:38:10,070]:DEBUG:diff parser end
+[2022-07-28 00:39:53,275]:DEBUG:diff parser start
+[2022-07-28 00:39:53,275]:DEBUG:line_lengths old: 1; new: 2
+[2022-07-28 00:39:53,275]:DEBUG:-> code[replace] old[1:1] new[1:2]
+[2022-07-28 00:39:53,275]:DEBUG:parse_part from 1 to 2 (to 1 in part parser)
+[2022-07-28 00:39:53,275]:DEBUG:diff parser end
+[2022-07-28 00:43:43,314]:DEBUG:diff parser start
+[2022-07-28 00:43:43,314]:DEBUG:line_lengths old: 2; new: 1
+[2022-07-28 00:43:43,314]:DEBUG:-> code[replace] old[1:2] new[1:1]
+[2022-07-28 00:43:43,314]:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+[2022-07-28 00:43:43,314]:DEBUG:diff parser end
+[2022-07-28 00:44:05,797]:DEBUG:diff parser start
+[2022-07-28 00:44:05,797]:DEBUG:line_lengths old: 1; new: 1
+[2022-07-28 00:44:05,797]:DEBUG:-> code[replace] old[1:1] new[1:1]
+[2022-07-28 00:44:05,812]:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+[2022-07-28 00:44:05,812]:DEBUG:diff parser end
+[2022-07-28 00:44:17,757]:DEBUG:diff parser start
+[2022-07-28 00:44:17,758]:DEBUG:line_lengths old: 1; new: 1
+[2022-07-28 00:44:17,758]:DEBUG:-> code[replace] old[1:1] new[1:1]
+[2022-07-28 00:44:17,760]:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+[2022-07-28 00:44:17,760]:DEBUG:diff parser end
+[2022-07-28 00:46:33,696]:DEBUG:diff parser start
+[2022-07-28 00:46:33,696]:DEBUG:line_lengths old: 1; new: 1
+[2022-07-28 00:46:33,696]:DEBUG:-> code[replace] old[1:1] new[1:1]
+[2022-07-28 00:46:33,696]:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+[2022-07-28 00:46:33,696]:DEBUG:diff parser end
+[2022-07-28 00:46:35,543]:DEBUG:diff parser start
+[2022-07-28 00:46:35,543]:DEBUG:line_lengths old: 1; new: 1
+[2022-07-28 00:46:35,544]:DEBUG:-> code[replace] old[1:1] new[1:1]
+[2022-07-28 00:46:35,545]:DEBUG:parse_part from 1 to 1 (to 0 in part parser)
+[2022-07-28 00:46:35,545]:DEBUG:diff parser end
